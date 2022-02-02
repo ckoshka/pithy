@@ -619,7 +619,7 @@ fn main() {
             .parse::<f32>()
             .unwrap()
     } else {
-        0.8
+        0.6
     };
     let density = if arguments.contains(&"--density".to_string()) {
         arguments
@@ -628,7 +628,7 @@ fn main() {
             .parse::<f32>()
             .unwrap()
     } else {
-        3
+        3.0
     };
 
     let use_bar = arguments.contains(&"--nobar".to_string());
