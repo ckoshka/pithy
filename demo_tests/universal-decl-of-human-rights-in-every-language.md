@@ -1,4 +1,4 @@
-##resources/ab/ab.txt
+## resources/ab/ab.txt
 9
 
 Ахәҭаҷ 6
@@ -6,7 +6,7 @@
 Дарбанзаалак ауаҩы, тәылас дахьыҟазаалакгьы азин имоуп иара изинхаҭара азхарҵаларц
 
 
-##resources/af/af.txt
+## resources/af/af.txt
 5
 
 Artikel 3
@@ -14,9 +14,9 @@ Artikel 3
 Elkeen het die reg tot lewe, vryheid en sekuriteit van persoon
 
 
-##resources/am/am.txt
+## resources/am/am.txt
 
-##resources/ar/ar.txt
+## resources/ar/ar.txt
 19
 
 المادة 8
@@ -24,30 +24,30 @@ Elkeen het die reg tot lewe, vryheid en sekuriteit van persoon
 لكل شخص الحق في أن يلجأ إلى المحاكم الوطنية لإنصافه عن أعمال فيها اعتداء على الحقوق الأساسية التي يمنحها له القانون
 
 
-##resources/ay/ay.txt
+## resources/ay/ay.txt
 11
  T'aqa
 Janiw j aqenakat maynikisa uywarj ama aljhatäkaspati, ukhamarus jan jupa munasin janiw kuna urañarus, irnaqañarus wayt'asitäspati
 
 
-##resources/az-Cyrl/az-Cyrl.txt
+## resources/az-Cyrl/az-Cyrl.txt
 22
  Һәр бир шәхс һәр бир өлкә һүдудунда сәрбәст һәрәкәт етмәк вә јашајыш јери сечмәк һүгугуна маликдир
 
 
-##resources/az-Latn/az-Latn.txt
+## resources/az-Latn/az-Latn.txt
 22
  Hər bir şəxs hər bir ölkə hüdudunda sərbəst hərəkət etmək və yaşayış yeri seçmək hüququna malikdir
 
 
-##resources/be/be.txt
+## resources/be/be.txt
 14
 
 
 Ні над кім не павінны ўчыняцца катаванні або жорсткія, бесчалавечныя або ўніжаючыя яго годнасць абыходжанне і пакаранне
 
 
-##resources/bg/bg.txt
+## resources/bg/bg.txt
 5
 
 Член 3
@@ -55,7 +55,7 @@ Janiw j aqenakat maynikisa uywarj ama aljhatäkaspati, ukhamarus jan jupa munasi
 Всеки има право на живот, свобода и лична сигурност
 
 
-##resources/bi/bi.txt
+## resources/bi/bi.txt
 9
 
 Atikol 6
@@ -63,7 +63,7 @@ Atikol 6
 Evriwan i gat raet blong narafala man i luksave hem olsem wan man o woman we i stap anda long loa
 
 
-##resources/bn/bn.txt
+## resources/bn/bn.txt
 2
  কা‌উকে‌ই এমন কোন কাজ বা ক্রটির জন্য দণ্ডযোগ্য অপরাধে দোষী সাব্যস্ত করা যাবে না, যে কাজ বা ক্রটি সংঘটনের সময় জাতীয় বা আন্তর্জাতিক আ‌ইনে দণ্ডনীয় অপরাধ ছিলনা। দণ্ডযোগ্য অপরাধ সংঘটনের সময় যে শাস্তি প্রযোজ্য ছিল, তার চেয়ে গুরুতর শাস্তি‌ও দে‌ওয়া চলবে না।
 ধারা ১২
@@ -74,28 +74,28 @@ Evriwan i gat raet blong narafala man i luksave hem olsem wan man o woman we i s
 ১
 
 
-##resources/bo/bo.txt
+## resources/bo/bo.txt
 
-##resources/br/br.txt
+## resources/br/br.txt
 22
  Pep den en deus gwir da vont ha dont en e frankiz ha da zibab e annez e diabarzh ur Stad
 
 
-##resources/bs-Cyrl/bs-Cyrl.txt
+## resources/bs-Cyrl/bs-Cyrl.txt
 10
 
 
 Свако има право на живот, слободу и особну сигурност
 
 
-##resources/bs-Latn/bs-Latn.txt
+## resources/bs-Latn/bs-Latn.txt
 9
 
 
 Svako ima pravo na život, slobodu i osobnu sigurnost
 
 
-##resources/ca/ca.txt
+## resources/ca/ca.txt
 5
 
 Article 3
@@ -103,14 +103,14 @@ Article 3
 Tota persona té dret a la vida, a la llibertat i a la seva seguretat
 
 
-##resources/ch/ch.txt
+## resources/ch/ch.txt
 1
 
 
 Asi como i dinisatende yan i denisprecia i derecho siha para i taotao manhuyon ti civilisao na finatinas siha ni esta hasen insulta i consencian i taotao yan i finato gi tano anai taotao siha umagosa i libertad kumentos, yan hinenge yan libertad gine minanao yan minalago esta maproclama como i mas takilo na aspirasion (tinanga) i comodo (regular) na taotao siha
 
 
-##resources/co/co.txt
+## resources/co/co.txt
 11
 
 Articulu 8
@@ -118,14 +118,14 @@ Articulu 8
 Hà dirittu ogni parsona à chjamà ni di modu effettivu à i tribunali naziunali cumpitenti contru à l’atti chì ùn rispittarianu i diritti fundamintali ch’elli li ricunnoscinu a custituzioni o a leggi
 
 
-##resources/cr/cr.txt
+## resources/cr/cr.txt
 3
  ᒥᓯᐌ ᐊᐌᓇ ᐁ ᑎᐯᓂᒥᑎᓱᐟ ᐗᐃᑐᑌᐟ ᐱᑯ ᑭᒋ ᐃᑐᑌᐟ ᓀᐢᑕ ᑭᒋ ᑕᔑᑫᐟ ᐱᑯ ᑕᐣᑕ ᐁᔑ ᐊᐢᑭᐗᐠ᙮
 
 2
 
 
-##resources/cs/cs.txt
+## resources/cs/cs.txt
 5
 
 Článek 3
@@ -133,7 +133,7 @@ Hà dirittu ogni parsona à chjamà ni di modu effettivu à i tribunali naziunal
 Každý má právo na život, svobodu a osobní bezpečnost
 
 
-##resources/cy/cy.txt
+## resources/cy/cy.txt
 5
 
 Erthygl 3
@@ -141,14 +141,14 @@ Erthygl 3
 Y mae gan bawb hawl i fywyd, rhyddid a diogelwch
 
 
-##resources/da/da.txt
+## resources/da/da.txt
 28
 
 
 Alle er lige for loven og har uden forskelsbehandling af nogen art lige ret til lovens beskyttelse
 
 
-##resources/de/de.txt
+## resources/de/de.txt
 5
 
 Artikel 3
@@ -156,26 +156,26 @@ Artikel 3
 Jeder hat das Recht auf Leben, Freiheit und Sicherheit der Person
 
 
-##resources/dz/dz.txt
+## resources/dz/dz.txt
 3
  མི་ངོམ་ག་ར་ལུ་ རྒྱལ་ཁབ་རེ་རེ་བཞིན་གྱི་ས་མཚམས་ནང་འཁོད་ལུ་ ག་སྟེ་འགྱོ་རུང་འགྱོ་ཆོགཔ་དང་། ག་སྟེ་གཞི་བཅའ་རུང་བཅའ་ཆོག་པའི་ཐོབ་དབང་ཡོད།
 
 ༢
 
 
-##resources/el-monoton/el-monoton.txt
+## resources/el-monoton/el-monoton.txt
 1
 
 
 Επειδή η παραγνώριση και η περιφρόνηση των δικαιωμάτων του ανθρώπου οδήγησαν σε πράξεις βαρβαρότητας, που εξεγείρουν την ανθρώπινη συνείδηση, και η προοπτική ενός κόσμου όπου οι άνθρωποι θα είναι ελεύθεροι να μιλούν και να πιστεύουν, λυτρωμένοι από τον τρόμο και την αθλιότητα, έχει διακηρυχθεί ως η πιο υψηλή επιδίωξη του ανθρώπου
 
 
-##resources/el-polyton/el-polyton.txt
+## resources/el-polyton/el-polyton.txt
 29
  Καθένας ἔχει τὸ δικαίωμα νὰ κυκλοφορεῖ ἐλεύθερα καὶ νὰ ἐκλέγει τὸν τόπο τῆς διαμονῆς του στὸ ἐσωτερικὸ ἑνὸς κράτους
 
 
-##resources/en/en.txt
+## resources/en/en.txt
 5
 
 Article 3
@@ -183,7 +183,7 @@ Article 3
 Everyone has the right to life, liberty and the security of person
 
 
-##resources/eo/eo.txt
+## resources/eo/eo.txt
 44
 
 Artikolo 18
@@ -191,7 +191,7 @@ Artikolo 18
 Ĉiu havas la rajton je libereco de penso, konscienco kaj religio; tiu ĉi rajto inkluzivas la liberecon ŝanĝi sian religion aŭ kredon, kaj liberecon manifesti, ĉu sola ĉu kune kun aliaj, ĉu publike ĉu private, sian religion aŭ kredon per instruado, praktikado, adorado kaj observado
 
 
-##resources/es/es.txt
+## resources/es/es.txt
 4
 
 Artículo 3
@@ -199,21 +199,21 @@ Artículo 3
 Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona
 
 
-##resources/et/et.txt
+## resources/et/et.txt
 9
 
 
 Igal inimesel on õigus elule, vabadusele ja isikupuutumatusele
 
 
-##resources/eu/eu.txt
+## resources/eu/eu.txt
 8
  atala
 
 Norbanako guztiek dute bizitzeko, aske izateko eta segurtasunerako eskubidea
 
 
-##resources/fa/fa.txt
+## resources/fa/fa.txt
 11
 
 ماده هشتم:
@@ -221,26 +221,26 @@ Norbanako guztiek dute bizitzeko, aske izateko eta segurtasunerako eskubidea
 در برابر اعمالی که حقوق اساسی هر فرد را مورد تجاوز قرار دهد و آن حقوق به وسیله قانون اساسی یا قانون دیگری برای او شناخته شده باشد، هر کس حق رجوع موثر به محاکم ملی صالحه دارد
 
 
-##resources/fi/fi.txt
+## resources/fi/fi.txt
 31
 
 
 Jokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaan lain edessä
 
 
-##resources/fj/fj.txt
+## resources/fj/fj.txt
 10
 
 
 Na tamata kece e nodra na dodonu kei na galala e tukuni tiko ena Lawa oqo, e sega ni dua me vakaduiduitaki ena vuku beka ni kawa, roka ni kuliniyago, tagane se yalewa, vosa, lotu, nanuma vakapolitiki se nanuma cava tale, vanua se itikotiko e cavutu mai kina, iyau, sucu se itutu cava tale
 
 
-##resources/fo/fo.txt
+## resources/fo/fo.txt
 24
  Øll hava sama rætt at verða vard fyri mismuni, sum er brot mæti hesi samtykt, og at verða vard fyri allari áeggjan til at skapa tílíkan mismun
 
 
-##resources/fr/fr.txt
+## resources/fr/fr.txt
 5
 
 Article 3
@@ -248,7 +248,7 @@ Article 3
 Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne
 
 
-##resources/fy/fy.txt
+## resources/fy/fy.txt
 5
 
 Kêst 3
@@ -256,33 +256,33 @@ Kêst 3
 Elk hat rjocht op libben, frijheid en ûnskeinberens fan syn persoan
 
 
-##resources/ga/ga.txt
+## resources/ga/ga.txt
 14
 
 
 Tá ag gach uile dhuine an ceart chun a aithinte i ngach uile áit mar phearsa i láthair an dlí
 
 
-##resources/gd/gd.txt
+## resources/gd/gd.txt
 14
 
 
 Tha còir aig gach neach a bhith air a choimhead mar bhall den chinne-daonna ann an sealladh an lagha
 
 
-##resources/gl/gl.txt
+## resources/gl/gl.txt
 25
  Toda persoa acusada de delicto ten o dereito a que se presuma a súa inocencia mentres non se probe a súa culpabilidade, conforme á lei e en xuízo público no que se lle asegurasen tódalas garantías precisas para a súa defensa
 
 
-##resources/gn/gn.txt
+## resources/gn/gn.txt
 12
  6
 
 Mayma yvypóra oguereko derecho ojehechakuaávo ichupe opaite handárupi haʼeha peteĩ máva leiduéra renondépe
 
 
-##resources/gu/gu.txt
+## resources/gu/gu.txt
 5
 
 અનુચ્છેદ ૩:
@@ -290,7 +290,7 @@ Mayma yvypóra oguereko derecho ojehechakuaávo ichupe opaite handárupi haʼeha
 દરેક વ્યક્તિને જીવવાનો, સ્વતંત્રતાનો અને સ્વરક્ષણનો અધિકાર છે
 
 
-##resources/ha/ha.txt
+## resources/ha/ha.txt
 3
 
 Gbɛjianɔtoo 2
@@ -298,14 +298,14 @@ Gbɛjianɔtoo 2
 Mɔ fɛɛ mɔ yɛ hegbɛ akɛ eyeɔ hegbɛi ni yɔɔ kpaŋmɔ nɛɛ mli lɛ amli ŋɔɔmɔ lɛ eko, bɔ ni naatsii ko kwraa bɛ yɛ jaku mli ni ajɛ, hewolo su ni ahiɛ, nuu loo yoo ni aji, wiemɔ ni awieɔ, jamɔ mli ni ayɔɔ, maŋsaneyeli shidaamɔ mli aloo susumɔ ni ayɔɔ yɛ nɔ ko he, maŋ nɔ ni ajɛ, nii ni ayɔɔ, weku mli ni ajɛ aloo gbɛnaa ko ni ahiɛ hewɔ
 
 
-##resources/he/he.txt
+## resources/he/he.txt
 21
 
 
 כל אדם זכאי להיות מוכר בכל מקום כאשיות בפני החוק
 
 
-##resources/hi/hi.txt
+## resources/hi/hi.txt
 2
 
 
@@ -315,21 +315,21 @@ Mɔ fɛɛ mɔ yɛ hegbɛ akɛ eyeɔ hegbɛi ni yɔɔ kpaŋmɔ nɛɛ mli lɛ amli
 अनुच्छेद ३
 
 
-##resources/hr/hr.txt
+## resources/hr/hr.txt
 8
 
 
 Svatko ima pravo na ćivot, slobodu i osobnu sigurnost
 
 
-##resources/hu/hu.txt
+## resources/hu/hu.txt
 9
  cikk
 
 Minden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz
 
 
-##resources/hy/hy.txt
+## resources/hy/hy.txt
 2
  Ոչ ոք չի կարող դատապարտվել որպես հանցագործ որևիցէ արարքի կամ բացթողման համար, որը կատարվել է այնպիսի ժամանակ, երբ այն ազգային կամ միջազգային օրենքով հանցագործություն չի համարվել։ Չի կարող սահմանվել նաև ավելի ծանր պատիժ, քան այն, որը կիրառվում էր հանցագործության կատարման ժամանակ։
 Հոդված 12
@@ -340,7 +340,7 @@ Minden személynek joga van az élethez, a szabadsághoz és a személyi biztons
 1
 
 
-##resources/ia/ia.txt
+## resources/ia/ia.txt
 5
 
 Articulo 3
@@ -348,7 +348,7 @@ Articulo 3
 Tote individuo ha le derecto al vita, al libertate e al securitate de su persona
 
 
-##resources/id/id.txt
+## resources/id/id.txt
 3
 
 Pasal 2
@@ -356,7 +356,7 @@ Pasal 2
 Setiap orang berhak atas semua hak dan kebebasan-kebebasan yang tercantum di dalam Pernyataan ini tanpa perkecualian apapun, seperti ras, warna kulit, jenis kelamin, bahasa, agama, politik atau pendapat yang berlainan, asal mula kebangsaan atau kemasyarakatan, hak milik, kelahiran ataupun kedudukan lain
 
 
-##resources/ig/ig.txt
+## resources/ig/ig.txt
 13
 
 Nkeji edemede 3
@@ -364,7 +364,7 @@ Nkeji edemede 3
 Onye ọ bụla nwere ikike inwe ndụ, ohere na nchedo nke onwe ya
 
 
-##resources/io/io.txt
+## resources/io/io.txt
 5
 
 Artiklo 3
@@ -372,33 +372,33 @@ Artiklo 3
 Omnu havas la yuri pri vivo, libereso, e sekureso di persono
 
 
-##resources/is/is.txt
+## resources/is/is.txt
 2
 
 
 Hafi mannréttindi verið fyrir borð borin og lítilsvirt, hefur slíkt haft í för með sér siðlausar athafnir, er ofboðið hafa samvizku mannkynsins, enda hefur því verið yfir lýst, að æðsta markmið almennings um heim allan sé að skapa veröld, þar sem menn fái notið málfrelsis , trúfrelsis og óttaleysis um einkalíf afkomu
 
 
-##resources/it/it.txt
+## resources/it/it.txt
 25
  Ogni individuo ha diritto alla libertà di movimento e di residenza entro i confini di ogni Stato
 
 
-##resources/iu/iu.txt
+## resources/iu/iu.txt
 10
 
 
 ᑭᓇᒃᑯᑐᐃᓐᓇᓕᒫᑦᑎᐊᑦ ᑕᒪᒃᑭᕐᖢᑎᒃ ᐱᔪᓐᓇᐅᑎᖃᕐᐳᑦ ᐃᓅᓯᕐᒥᓄᑦ, ᑭᓱᒡᒍᑎᖃᕆᐊᖃᕐᓂᖃᕋᓂ ᐃᓕᑕᕆᔭᐅᔾᔪᑎᒃᓴᒥᒃ ᐊᒻᒪᓗ ᒥᐊᓂᖅᓯᐅᑎᖃᕐᓂᒃᑯᑦ ᐃᓅᓯᖓᓄᑦ
 
 
-##resources/ja/ja.txt
+## resources/ja/ja.txt
 9
  すべて人は、国籍をもつ権利を有する。
 
 2
 
 
-##resources/jv/jv.txt
+## resources/jv/jv.txt
 16
 
 
@@ -408,21 +408,21 @@ BAB : 1
 Saben uwong kalairake kanthi mardika lan darbe martabat lan hak-hak kang padha
 
 
-##resources/ka/ka.txt
+## resources/ka/ka.txt
 8
 
 
 ყოველ ადამიანს აქვს სიცოცხლის, თავისუფლებისა და პირადი ხელშეუხებლობის უფლება
 
 
-##resources/km/km.txt
+## resources/km/km.txt
 7
  មនុស្សគ្រប់រូប មានសិទ្ធិទទួលបានសញ្ជាតិមួយ។
 
 ២
 
 
-##resources/ko/ko.txt
+## resources/ko/ko.txt
 5
 
 제 3 조
@@ -430,7 +430,7 @@ Saben uwong kalairake kanthi mardika lan darbe martabat lan hak-hak kang padha
 모든 사람은 생명과 신체의 자유와 안전에 대한 권리를 가진다
 
 
-##resources/kr/kr.txt
+## resources/kr/kr.txt
 13
 
 Babu 3
@@ -438,7 +438,7 @@ Babu 3
 Ndu yaye hakkinzə kəla ronzə-a nəmkambenzə-a nəlefa kəlanzə-aben mbeji
 
 
-##resources/ku/ku.txt
+## resources/ku/ku.txt
 13
 
 Bend 10
@@ -446,7 +446,7 @@ Bend 10
 Herkes, di wekheviyeke temamî de, maf heye ku doza wî li ber mehkemeyeke serbixwe û bê alî bi awayekî adil û eşkere bê bihîstin ji bo diyarkirina maf û wacibên wî û ya her tawana curmî li dijî wî
 
 
-##resources/la/la.txt
+## resources/la/la.txt
 7
 
 VI
@@ -454,14 +454,14 @@ VI
 Suae quisque ipsius probationis potestatem habet, ubicumque gentium, personae rationalis et civilis
 
 
-##resources/lg/lg.txt
+## resources/lg/lg.txt
 12
 
 
 Buli muntu ateekwa okubeerawo nga mulamu nga yegazaanya awatali kutaataganyizibwa mu ngeri yonna
 
 
-##resources/ln/ln.txt
+## resources/ln/ln.txt
 6
 
 ETENI YA 3
@@ -469,12 +469,12 @@ ETENI YA 3
 Moto nyonso azali na likoki ya kozala na bomoi, a kozala somi pe kozala motema sei na bomoto na ye
 
 
-##resources/lo/lo.txt
+## resources/lo/lo.txt
 12
 ຄົນຜູ້ໃດກໍ່ອ້າງຕົນໄດ້ວ່າ:ມີສິດ ແລະ ເສລີພາບທຸກຢ່າງທີ່ໄດ້ປ່າວຮ້ອງຢູ່ໃນປະກາດສະບັບນີ້ໂດຍບໍ່ເລືອກໜ້າ ບໍ່ຈຳກັດເຊື້ອຊາດ,ຜິວເນື້ອ,ເພດ,ສາສະໜາ ຄວາມຄິດເຫັນໃນດ້ານການເມືອງ ຫຼື ອື່ນໆ ກຳເນີດແຫ່ງຊາດຫຼື ສັງຄົມຖານະການມີຊັບສົມບັດມາກ ຫຼື ນ້ອຍ,ມີຕະກຸນ ຫຼື ຖານະອື່ນໆ
 
 
-##resources/lt/lt.txt
+## resources/lt/lt.txt
 5
 
 
@@ -483,21 +483,21 @@ Moto nyonso azali na likoki ya kozala na bomoi, a kozala somi pe kozala motema s
 Kiekvienas žmogus turi teisę į gyvybę, laisvę ir asmens neliečiamybę
 
 
-##resources/lv/lv.txt
+## resources/lv/lv.txt
 10
  pants
 
 Ikvienam ir tiesības uz dzīvību, brīvību un personas neaizskaramību
 
 
-##resources/mh/mh.txt
+## resources/mh/mh.txt
 12
 
 
 En ejelol armij en ej ber ilo intan im kokkure non enbwin eo an lak ilo wawin ko rellej, ak kaje kin wawin ko ejelok ilo mantin mour an armij ak ilo wawin eo ej men in lelok non e jerata
 
 
-##resources/mn-Cyrl/mn-Cyrl.txt
+## resources/mn-Cyrl/mn-Cyrl.txt
 2
 
 Хоёрдугаар зүйл
@@ -505,33 +505,33 @@ En ejelol armij en ej ber ilo intan im kokkure non enbwin eo an lak ilo wawin ko
 Хүн бүр энэ Тунхаглалд заасан бүхий л эрх, эрх чөлөөг ямар ч ялгаваргүйгээр, яс үндэс, арьс өнгө, хүйс, хэл, шашин шүтлэг, улс төрийн болон бусад үзэл бодол, үндэсний буюу нийгмийн гарал, эд хөрөнгийн байдал, язгуур угсаа, бусад ялгааг эс харгалзан адилхан эдлэх ёстой
 
 
-##resources/ms-Arab/ms-Arab.txt
+## resources/ms-Arab/ms-Arab.txt
 12
 
 
 ستياڤ اورڠ عداله برحق كڤد سموا حق٢ دان كبيبسن يڠ ترمكتوب دالم ڤراشتهارن اين، تنڤا سبارڠ اڤ جوا ڤمبيذأن، سڤرتي بڠسا، ورنا كوليت، جنتينا، بهاس، اڬام، فهم ڤوليتيك اتاو لائن٢ فهمن، اصل اصول بڠسا كتورونن اتاو سوسيال هرتا بندا، كلاهيرن اتاو اڤ٢ طرف لائن
 
 
-##resources/ms-Latn/ms-Latn.txt
+## resources/ms-Latn/ms-Latn.txt
 12
 
 
 Setiap orang adalah berhak kepada semua hak-hak dan kebebasan yang termaktub dalam Perisytiharan ini, tanpa sebarang apa jua pembezaan, seperti bangsa, warna kulit, jantina, bahasa, ugama, faham politik atau lain-lain fahaman, asal-usul bangsa keturunan atau sosial harta-benda, kelahiran atau apa-apa taraf lain
 
 
-##resources/mt/mt.txt
+## resources/mt/mt.txt
 19
  Kulħadd għandu l-jedd għal protezzjoni ndaqs kontra kull għażla li tikser din l-Istqarrija u kontra kull provokazzjoni għal għażla bħal din
 
 
-##resources/nb/nb.txt
+## resources/nb/nb.txt
 15
 
 
 Enhver har krav på alle de rettigheter og friheter som er nevnt i denne erklæring, uten forskjell av noen art, f
 
 
-##resources/ng/ng.txt
+## resources/ng/ng.txt
 12
 
 Okatopolwa 3
@@ -539,7 +539,7 @@ Okatopolwa 3
 Omuntu kehe oku na uuthemba womwenyo, emanguluko negameno Iyuuntu
 
 
-##resources/nl/nl.txt
+## resources/nl/nl.txt
 4
 
 Artikel 3
@@ -547,7 +547,7 @@ Artikel 3
 Een ieder heeft het recht op leven, vrijheid en onschendbaarheid van zijn persoon
 
 
-##resources/nn/nn.txt
+## resources/nn/nn.txt
 0
 
 DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE
@@ -574,7 +574,7 @@ GENERALFORSAMLINGA
 DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skal peike mot eit sams mål for alle folk og nasjonar
 
 
-##resources/nv/nv.txt
+## resources/nv/nv.txt
 15
 
 Łáaʼii Góneʼ Biyiʼ Yisdzohígíí
@@ -582,7 +582,7 @@ DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skal peike mot eit sams må
 Bilaʼashdaʼii tʼáá ałtsoh yiníkʼehgo bidizhchįh dóó aheełtʼeego ílį́į́go bee baahóchįʼ
 
 
-##resources/oc/oc.txt
+## resources/oc/oc.txt
 5
  »
 
@@ -591,7 +591,7 @@ Article 3
 « Tot individú a drech a la vida, a la libertat e a la seguretat de sa persona
 
 
-##resources/om/om.txt
+## resources/om/om.txt
 6
 
 
@@ -599,7 +599,7 @@ Qabxii 3
 Namni kamiyyuu mirga jiraachuu, birmadummaa argachuu fi mirga qaamni isaa eegamuu ni qaba
 
 
-##resources/pl/pl.txt
+## resources/pl/pl.txt
 8
 
 Artykuł 3
@@ -607,19 +607,19 @@ Artykuł 3
 Każdy człowiek ma prawo do życia, wolności i bezpieczeństwa swej osoby
 
 
-##resources/pt-BR/pt-BR.txt
+## resources/pt-BR/pt-BR.txt
 16
 
 
 Todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei
 
 
-##resources/pt-PT/pt-PT.txt
+## resources/pt-PT/pt-PT.txt
 35
  Toda a pessoa tem o direito de livremente circular e escolher a sua residência no interior de um Estado
 
 
-##resources/ro/ro.txt
+## resources/ro/ro.txt
 13
 
 Articolul 10
@@ -627,7 +627,7 @@ Articolul 10
 Orice persoană are dreptul în deplină egalitate de a fi audiată în mod echitabil și public de către un tribunal independent și imparțial care va hotărî fie asupra drepturilor și obligațiilor sale, fie asupra temeiniciei oricărei acuzări în materie penală îndreptată împotriva sa
 
 
-##resources/ru/ru.txt
+## resources/ru/ru.txt
 6
 
 Статья 3
@@ -635,28 +635,28 @@ Orice persoană are dreptul în deplină egalitate de a fi audiată în mod echi
 Каждый человек имеет право на жизнь, на свободу и на личную неприкосновенность
 
 
-##resources/sa/sa.txt
+## resources/sa/sa.txt
 3
  प्रत्येकमपि राष्ट्रस्य सीम्नि आवासस्य गमनागमनस्य च स्वातन्ञ्याधिकारं प्रत्येकमपि जन: संधारयति।स्वदेशोपेतं कमपि देशं त्यक्तुं स्वदेशं च प्रत्यागन्तुं प्रत्येकमपि अधिकृतोऽस्ति।
 
 2
 
 
-##resources/sk/sk.txt
+## resources/sk/sk.txt
 15
 
 
 Všetci sú si pred zákonom rovní a majú právo na rovnakú ochranu zákona bez hociakého rozlišovania
 
 
-##resources/sl/sl.txt
+## resources/sl/sl.txt
 8
  člen
 
 Vsakdo ima pravico do življenja, do prostosti in do osebne varnosti
 
 
-##resources/so/so.txt
+## resources/so/so.txt
 17
 
 Qod VIII
@@ -664,26 +664,26 @@ Qod VIII
 Qof kasta wuxuu xaq u leeyahay inuu helo Maxkamadaha ku hawsha leh ee dalkiisa cawin celin dhab ah marka lagu xad-gudbo xuquuqda asaasiga ah oo uu dastuurka ama sharciga siiyay
 
 
-##resources/sq/sq.txt
+## resources/sq/sq.txt
 13
 
 
 Asnjeri nuk duhet të mbahet si skllav ose çifçi; skllavëria dhe tregtia e skllevërve janë të ndaluara në të gjitha format
 
 
-##resources/sr-Cyrl/sr-Cyrl.txt
+## resources/sr-Cyrl/sr-Cyrl.txt
 8
 
       Свако има право на живот, слободу и безбедност личности
 
 
-##resources/sr-Latn/sr-Latn.txt
+## resources/sr-Latn/sr-Latn.txt
 8
 
 Svako ima pravo na život, slobodu i bezbednost ličnosti
 
 
-##resources/ss/ss.txt
+## resources/ss/ss.txt
 8
 
 INTFO YESITSATFU (3)
@@ -691,25 +691,25 @@ INTFO YESITSATFU (3)
 Wonkhe umuntfu unelilungelo lokuphila, lokukhululeka nekutibusela kanye nekuphepha kwakhe
 
 
-##resources/sv/sv.txt
+## resources/sv/sv.txt
 17
 
 
 Envar har rätt till liv, frihet och personlig säkerhet
 
 
-##resources/sw/sw.txt
+## resources/sw/sw.txt
 24
 
 Kila mtu ana haki ya kutetewa na baraza la hukumu kwa makosa ya kuvunjiwa haki zake za asili anazostahili kwa mujibu wa kanuni na sheria
 
 
-##resources/ta/ta.txt
+## resources/ta/ta.txt
 59
  ஒவ்வொருவருக்கும் தத்தம் நாட்டின் ஆட்சியில் நேரடியாகவோ அல்லது சுதந்திரமான முறையில் தெரிவு செய்யப்பட்ட பிரதிநிதிகள் மூலமாகவோ பங்குபெறுவதற்கு உரிமையுண்டு
 
 
-##resources/th/th.txt
+## resources/th/th.txt
 9
  บุคคลใด ๆ จะถูกตัดสัญชาติของตนโดยพลการ หรือถูกปฏิเสธสิทธิที่จะเปลี่ยนสัญชาติไม่ได้
 ข้อ 16
@@ -717,7 +717,7 @@ Kila mtu ana haki ya kutetewa na baraza la hukumu kwa makosa ya kuvunjiwa haki z
 1
 
 
-##resources/tl/tl.txt
+## resources/tl/tl.txt
 18
 
 Artikulo 3
@@ -725,7 +725,7 @@ Artikulo 3
 Ang bawat tao'y may karapatan sa buhay, kalayaan at kapanatagan ng sarili
 
 
-##resources/to/to.txt
+## resources/to/to.txt
 9
 
 Kapango 3
@@ -733,7 +733,7 @@ Kapango 3
 Muntu oonse ulaangulukide kubukkale bwabuumi, lwaanguluko alimwi akukwabililwa
 
 
-##resources/tr/tr.txt
+## resources/tr/tr.txt
 6
 
 Madde 4
@@ -741,14 +741,14 @@ Madde 4
 Hiç kimse kölelik veya kulluk altında bulundurulamaz; kölelik ve köle ticareti her türlü şekliyle yasaktır
 
 
-##resources/tt/tt.txt
+## resources/tt/tt.txt
 11
 
 
 Һәр кешенең тормышка, иреккә һәм шәхси кагылгысызлыкка хокукы бар
 
 
-##resources/ty/ty.txt
+## resources/ty/ty.txt
 0
 FA'IRA'A HA'ATI I TE MAU Tl'AMANARA'A O TE TA'ATA-TUPU
 PARAU FA'AARA
@@ -764,7 +764,7 @@ I te fa'afaufa'a i te fa'aitoitora'a i te rito o te here i rotopū i te mau va'a
 I te fa'ari'i, i roto i teie Parau-Fa'aau, e ua ti'aoro fa'ahou te mau nuna'a ta'ata o te mau Va'a'ai'a-'Amuitahia i to ratou ti'aturi pāpū i te mau ti'amanara'a tumu o te ta'ata, i te ihomana e i te faufa'a o te ihota'ata i te 'aifaitora'a o te ti'amanara'a o te mau tane e o te mau vahine
 
 
-##resources/ug-Arab/ug-Arab.txt
+## resources/ug-Arab/ug-Arab.txt
 8
 
 3 ماددا
@@ -772,7 +772,7 @@ I te fa'ari'i, i roto i teie Parau-Fa'aau, e ua ti'aoro fa'ahou te mau nuna'a ta
 ھەممە ئادەم ھاياتلىقتىن، ئەركىنلىكتىن ۋە جىسمانىي بىخەتەرلىكتىن بەھرىمەن بولۇشقا ھوقۇقلۇق
 
 
-##resources/ug-Latn/ug-Latn.txt
+## resources/ug-Latn/ug-Latn.txt
 14
 
 3-madda
@@ -780,16 +780,16 @@ I te fa'ari'i, i roto i teie Parau-Fa'aau, e ua ti'aoro fa'ahou te mau nuna'a ta
 hemme adem hayatliqtin, erkinliktin we jismaniy bixeterliktin behrimen bolushqa hoquqluq
 
 
-##resources/uk/uk.txt
+## resources/uk/uk.txt
 9
 
 
 Кожна людина має право на життя, на свободу і на особисту недоторканність
 
 
-##resources/ur/ur.txt
+## resources/ur/ur.txt
 
-##resources/uz/uz.txt
+## resources/uz/uz.txt
 7
 
 3‐модда
@@ -797,7 +797,7 @@ hemme adem hayatliqtin, erkinliktin we jismaniy bixeterliktin behrimen bolushqa 
 Ҳар бир инсон яшаш, эркинлик ва шахсий дахлсизлик ҳуқуқига эгадир
 
 
-##resources/ve/ve.txt
+## resources/ve/ve.txt
 15
 
 Tshiteṅwa 8
@@ -805,14 +805,14 @@ Tshiteṅwa 8
 Muthu muṅwe na muṅwe u na pfanelo ya ndamulelo ya khoro dza lushaka dzi re na vhukoni kha vhukando vhu pfukaho pfanelo dze a ṋewa nga ndayotewa kana mulayo
 
 
-##resources/vi/vi.txt
+## resources/vi/vi.txt
 2
 
 
 Các nước thành viên đã cam kết, cùng với tổ chức Liên Hợp Quốc, phấn đấu thúc đẩy mọi người tôn trọng và thực hiện các quyền cũng như những tự do cơ bản của con người
 
 
-##resources/wa/wa.txt
+## resources/wa/wa.txt
 13
 
 Artike ûtinme (8)
@@ -820,14 +820,14 @@ Artike ûtinme (8)
 Chaskeun' a l'dreût d's'aler plinde èt d'èsse ètindou po d'bon dè-l'justice compétinte di s'payis, di tot çou qu'sèreût fêt po mète a må lès mêsses dreûts qu'lî sont rik'nohous dè-l'constitucion ou bin dès lwès
 
 
-##resources/wo/wo.txt
+## resources/wo/wo.txt
 3
 
 
 Ñu jàpp ne am na solo lool ñu aar sañ-sañi doomu aadama ak ay matukaay ci wàllu yoon; ngir doomu aadama moomu kenn du ko sonal, muy fippu ci nootaange ak lu koy bunduxatal
 
 
-##resources/xh/xh.txt
+## resources/xh/xh.txt
 11
 
 Inqaku lesi‐3
@@ -835,6 +835,11 @@ Inqaku lesi‐3
 Wonke umntu unelungelo lokuphila, inkululeko kunye nokhuseleko
 
 
-##resources/yo/yo.txt
+## resources/yo/yo.txt
 1
  Bákan náà, a gbo̩dò̩ rí àwo̩n ìgbésè̩ tí ó lè mú ìlo̩síwájú bá orílè̩‐èdè kan s̩os̩o tàbí àwo̩n orílè̩‐èdè sí ara wo̩n, kí a sì rí i pé a fi ò̩wò̩ tó jo̩jú wo̩ àwo̩n òfin wò̩nyí, kí àmúlò wo̩n sì jé̩ káríayé láàrin àwo̩n ènìyàn orílè̩‐èdè tó jé̩ o̩mo̩ Àjo̩‐ìsò̩kan àgbáyé fúnra wo̩n àti láàrin àwo̩n ènìyàn orílè̩‐èdè mìíràn tó wà lábé̩ às̩e̩ wo̩n
+
+
+## resources/zh-Hans/zh-Hans.txt
+
+## resources/zh-Hant/zh-Hant.txt
