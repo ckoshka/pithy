@@ -19,10 +19,14 @@ pithy -f your_file_here.txt --sentences 4
 --**sentences:**
 
     The number of sentences for pithy to return. Defaults to 3.
+    
 
---**bias_strength:**
+--**density**
 
-    The strength of the bias, must be an integer. Defaults to 6.
+    Experimental setting. Defaults to 3. Setting it lower 
+    makes for more general summaries with more common words,
+    setting it higher prioritises important highlights that
+    might not be central to the text.
 
 --**by_section:**
 
@@ -81,13 +85,6 @@ pithy -f your_file_here.txt --sentences 4
 
     The length penalty. Defaults to 1.5. Decrease to make glance for longer 
     sentences, increase for shorter sentences.
-
---**density**
-
-    Experimental setting. Defaults to 3. Setting it lower 
-    seems to bias pithy's summaries towards more common words, 
-    setting it higher seems to bias summaries towards rarer 
-    but more informative words.
 
 --**no_context**
 
