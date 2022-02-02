@@ -1,0 +1,17 @@
+[package]
+name = "pithy"
+version = "0.1.1"
+edition = "2021"
+authors = ["ckoshka"]
+license = "MIT"
+description = "Ultra-fast, spookily accurate text summarizer that works on any language"
+readme = "README.md"
+homepage = "https://github.com/ckoshka/pithy"
+repository = "https://github.com/ckoshka/pithy"
+keywords = ["summarize", "summarization", "text", "nlp", "cli"]
+categories = ["command-line-utilities", "text-processing"]
+
+[dependencies]
+rayon = "1.5.1"
+indicatif = "0.16.2"
+colored = "2"
