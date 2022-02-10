@@ -4,6 +4,10 @@ Quick example:
 pithy -f your_file_here.txt --sentences 4
 ```
 
+### You can play with it either:
+* As a crate that comes with both a library and a CLI tool: https://crates.io/crates/pithy
+* Or on the web demo: https://pithy.glossandra.repl.co/
+
 ![speedtest](https://user-images.githubusercontent.com/48640397/152093217-cc6efabf-1ebb-46a1-b463-004ca6680f22.gif)
 
 ![final_demo_gif_2](https://user-images.githubusercontent.com/48640397/152093010-dd8667c6-f0e6-4a37-8c32-c2f99e993cf1.gif)
